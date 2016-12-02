@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ProductsTableViewController.h
 //  WeMakeAppsProducts
 //
 //  Created by Alexander Crompton on 1/12/2016.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ProductsTableViewController : UITableViewController
 
 @end
-
